@@ -13,7 +13,7 @@
 .list {
   text-align: center;
   margin: 0 auto;
-  padding: 15 px 0;
+  padding: 15px 0;
   border-top: 1px solid #848282;
   border-bottom: 1px solid #848282;
 }
@@ -27,7 +27,7 @@
   width: 800px;
   margin: 50px auto;
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: wrap; /* 自動で折り返される */
 }
 
 .green1 {
