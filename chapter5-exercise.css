@@ -9,6 +9,11 @@
   text-align: center;
 }
 
+nav {
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+}
+
 .list {
   list-style: none;
   display: flex;
@@ -106,5 +111,5 @@ footer {
   text-align: center;
   line-height: 120px;
   color: white;
-  background-color: #6c6b6b;
+  background-color: gray;
 }
